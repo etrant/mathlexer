@@ -3,6 +3,14 @@ A lexical analyzer that recognizes all of the tokens necessary for mathematical 
 
 Mathlexer takes a text file with the desired arithmetic as input.
 
+```
+Usage:
+
+java MathLexer example.txt
+```
+
+**.txt file must be in the same path as the program!**
+
 Recognizes all of the tokens necessary for mathematical operations:
 - Addition operations
 - Subtraction operations
